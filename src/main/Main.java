@@ -141,6 +141,9 @@ public class Main {
 		//bublesort 100   elementos 2  milisegundos		 mergesort 100   elementos 2  milisegundos
 		//bublesort 1000  elementos 10 milisegundos		 mergesort 1000  elementos 13 milisegundos
 		//bublesort 10000 elementos 135milisegundos		 mergesort 10000 elementos 28 milisegundos
+		
+		//Conclusion: al obervar los tiempos en los 2 algoritmos veo que cuanto mayor es el numero de elementos,
+		//más rapido resuelve el ordenamiento el mergesort con respecto del bubblesort 
 	}
 
 }
